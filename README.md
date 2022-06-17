@@ -172,9 +172,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@twitter_handle](https://twitter.com/potlitel) - potlitel@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/potlitel/vite-reactjs-tailwind-template](https://github.com/potlitel/vite-reactjs-tailwind-template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -190,6 +190,9 @@ List of resources I find helpful and would like to give credit to. I've included
 * [Vite and Tailwind CSS: Up and running](https://www.bensheedy.com/blog/vite-and-tailwindcss-up-and-running/)
 * [React + TailwindCSS + Vite.js = a Match made in Heaven?](https://dev.to/rjzauner/react-tailwindcss-vite-js-a-match-made-in-heaven-14o5)
 * [Testimonial card](https://tailwindcomponents.com/component/testimonial-card)
+* [About Me](https://tailwindcomponents.com/component/about-me)
+* [3 Crisp Cards](https://tailwindcomponents.com/component/3-crisp-cards)
+* []()
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
