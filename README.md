@@ -90,7 +90,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ## Getting Started
 
-This repo is a clone of is an example of how you may give instructions on setting up your project locally.
+This repo is a rich clone of [Sidebar](https://tailwindcomponents.com/component/sidebar-2). is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
