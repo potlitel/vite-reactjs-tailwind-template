@@ -6,7 +6,7 @@ export default function Sidebar() {
       <div class="md:flex w-2/5 md:w-1/4 h-screen bg-white border-r hidden">
         <div class="mx-auto py-10">
           <h1 class="text-2xl font-bold mb-10 cursor-pointer text-[#EC5252] duration-150">
-            Asason
+            Site Name
           </h1>
           <ul>
             <li class="flex space-x-2 mt-10 cursor-pointer hover:text-[#EC5252] duration-150">
@@ -102,7 +102,7 @@ export default function Sidebar() {
                   d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
                 />
               </svg>
-              <Link to="/MyCourse" class="navbar-brand">
+              <Link to="/Settings" class="navbar-brand">
                 <span class="font-semibold">Settings</span>
               </Link>
             </li>

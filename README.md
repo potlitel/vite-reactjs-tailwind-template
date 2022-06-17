@@ -17,12 +17,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[Contributors][contributors-url]
-[Forks][forks-url]
-[Stargazers][stars-url]
-[Issues][issues-url]
-[MIT License][license-url]
-[LinkedIn][linkedin-url]
 
 <!-- PROJECT LOGO -->
 
@@ -87,14 +81,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -102,7 +90,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+This repo is a clone of is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -111,7 +99,7 @@ This is an example of how to list things you need to use the software and how to
 
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 
 ### Installation
@@ -201,6 +189,7 @@ List of resources I find helpful and would like to give credit to. I've included
 * [Set Up Your Environment for Vite, React and Tailwind CSS](https://javascript.plainenglish.io/set-up-your-environment-for-vite-react-and-tailwind-css-1cac0e3fbf96)
 * [Vite and Tailwind CSS: Up and running](https://www.bensheedy.com/blog/vite-and-tailwindcss-up-and-running/)
 * [React + TailwindCSS + Vite.js = a Match made in Heaven?](https://dev.to/rjzauner/react-tailwindcss-vite-js-a-match-made-in-heaven-14o5)
+* [Testimonial card](https://tailwindcomponents.com/component/testimonial-card)
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
