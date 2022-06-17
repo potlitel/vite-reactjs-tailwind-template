@@ -4,6 +4,9 @@ import NavigationBar from "./NavigationBar";
 import Sidebar from "./Sidebar";
 import { Routes, Route, Link} from "react-router-dom";
 import Home from "./Home";
+import MyCourse from "./MyCourse";
+import Profile from "./Profile";
+import Settings from "./Settings";
 
 export default function MainZone() {
   return (
@@ -15,6 +18,9 @@ export default function MainZone() {
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route exact path="/AllCourses" element={<AllCourses />} />
+            <Route exact path="/MyCourse" element={<MyCourse />} />
+            <Route exact path="/Profile" element={<Profile />} />
+            <Route exact path="/Settings" element={<Settings />} />
           </Routes>
           <Footer />
         </main>
