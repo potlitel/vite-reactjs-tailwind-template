@@ -17,7 +17,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
 <!-- PROJECT LOGO -->
 
 <br />
@@ -73,7 +72,8 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+<img src="images/Resume.gif" alt="Logo" width="840" height="480">
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -81,8 +81,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Tailwind CSS](https://tailwindcss.com/)
-* [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React.js](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -97,7 +97,7 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-* npm
+- npm
   ```sh
   npm install
   ```
@@ -115,7 +115,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 4. Enter your API in `config.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const API_KEY = "ENTER YOUR API";
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -184,16 +184,16 @@ Project Link: [https://github.com/potlitel/vite-reactjs-tailwind-template](https
 
 List of resources I find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [How do I add tailwindcss to vite?](https://stackoverflow.com/questions/61949967/how-do-i-add-tailwindcss-to-vite)
-* [How To Install Tailwindcss In Vite](https://tailwindcomponents.com/blog/how-to-install-tailwindcss-in-vite)
-* [Set Up Your Environment for Vite, React and Tailwind CSS](https://javascript.plainenglish.io/set-up-your-environment-for-vite-react-and-tailwind-css-1cac0e3fbf96)
-* [Vite and Tailwind CSS: Up and running](https://www.bensheedy.com/blog/vite-and-tailwindcss-up-and-running/)
-* [React + TailwindCSS + Vite.js = a Match made in Heaven?](https://dev.to/rjzauner/react-tailwindcss-vite-js-a-match-made-in-heaven-14o5)
-* [Testimonial card](https://tailwindcomponents.com/component/testimonial-card)
-* [About Me](https://tailwindcomponents.com/component/about-me)
-* [3 Crisp Cards](https://tailwindcomponents.com/component/3-crisp-cards)
-* []()
-* []()
+- [How do I add tailwindcss to vite?](https://stackoverflow.com/questions/61949967/how-do-i-add-tailwindcss-to-vite)
+- [How To Install Tailwindcss In Vite](https://tailwindcomponents.com/blog/how-to-install-tailwindcss-in-vite)
+- [Set Up Your Environment for Vite, React and Tailwind CSS](https://javascript.plainenglish.io/set-up-your-environment-for-vite-react-and-tailwind-css-1cac0e3fbf96)
+- [Vite and Tailwind CSS: Up and running](https://www.bensheedy.com/blog/vite-and-tailwindcss-up-and-running/)
+- [React + TailwindCSS + Vite.js = a Match made in Heaven?](https://dev.to/rjzauner/react-tailwindcss-vite-js-a-match-made-in-heaven-14o5)
+- [Testimonial card](https://tailwindcomponents.com/component/testimonial-card)
+- [About Me](https://tailwindcomponents.com/component/about-me)
+- [3 Crisp Cards](https://tailwindcomponents.com/component/3-crisp-cards)
+- []()
+- []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
